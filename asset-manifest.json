@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-websit/static/css/main.4e46103c.chunk.css",
+    "main.js": "/react-websit/static/js/main.ea884a40.chunk.js",
+    "main.js.map": "/react-websit/static/js/main.ea884a40.chunk.js.map",
+    "runtime-main.js": "/react-websit/static/js/runtime-main.76135ace.js",
+    "runtime-main.js.map": "/react-websit/static/js/runtime-main.76135ace.js.map",
+    "static/js/2.1bf93838.chunk.js": "/react-websit/static/js/2.1bf93838.chunk.js",
+    "static/js/2.1bf93838.chunk.js.map": "/react-websit/static/js/2.1bf93838.chunk.js.map",
+    "index.html": "/react-websit/index.html",
+    "precache-manifest.e55070b7fae4a8b96eec263435a22f50.js": "/react-websit/precache-manifest.e55070b7fae4a8b96eec263435a22f50.js",
+    "service-worker.js": "/react-websit/service-worker.js",
+    "static/css/main.4e46103c.chunk.css.map": "/react-websit/static/css/main.4e46103c.chunk.css.map",
+    "static/js/2.1bf93838.chunk.js.LICENSE.txt": "/react-websit/static/js/2.1bf93838.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76135ace.js",
+    "static/js/2.1bf93838.chunk.js",
+    "static/css/main.4e46103c.chunk.css",
+    "static/js/main.ea884a40.chunk.js"
+  ]
+}
